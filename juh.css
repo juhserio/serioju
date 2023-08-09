@@ -1,0 +1,12 @@
+h1 {
+    background-color: rgb(255, 102, 0);
+    text-align:center;
+}
+
+p {
+    text-align: center;
+}
+
+strong {
+    font-size: 30px
+}
