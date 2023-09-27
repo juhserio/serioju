@@ -19,7 +19,11 @@ h3 {
     font-size:x-large
 }
 
-body {
-    .imagem
+
+.arte {
+    width: 50%
 
 }
+    .imagemcentralizada {
+        text-align: center;
+    }
