@@ -1,5 +1,5 @@
 h1 {
-    background-color: rgb(33, 226, 194, 0.5);
+    background-color: rgba(33, 226, 194, 0.5);
     text-align:center;
 }
 
@@ -19,6 +19,10 @@ h3 {
     font-size:x-large
 }
 
+p  { 
+    text-align: left;
+}
+
 
 .arte {
     width: 50%
@@ -27,3 +31,7 @@ h3 {
     .imagemcentralizada {
         text-align: center;
     }
+
+.lista {
+    color: dimgray;
+}
