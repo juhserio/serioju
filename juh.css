@@ -1,6 +1,5 @@
-h1 {
-    background-color: rgba(67, 235, 179, 0.5);
-    text-align:center;
+.capa {
+    width: 22%;
 }
 
 p {
@@ -11,7 +10,10 @@ strong {
     font-size: 30px
 }
 h2 {
-    text-align: left;
+    text-align: center;
+}
+.ccp{
+  color: rgb(139, 173, 79);
 }
 
 h3 {
