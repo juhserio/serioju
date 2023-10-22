@@ -1,5 +1,13 @@
 body {
-    background-color: aquamarine;
+    background-color: rgb(255, 255, 255);
     text-align:center;
   }
+  
+  .ca-pa{
+    width: 10%;
+}
+footer {
+    text-align: center;
+    background-color:#a5bb50;
+}
   
