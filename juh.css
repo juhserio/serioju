@@ -1,35 +1,36 @@
 .capa {
-    width: 22%;
+    width: 17%;
+    text-align: left;
 }
-
-p {
+P{ 
+    font-size: larger;
+    text-align: center;
+    color: #603933;
+}
+a{
+    font-size: larger;
     text-align: center;
 }
 
-strong {
-    font-size: 30px
+.sistema{
+    color: #603933;
 }
-h2 {
-    text-align: center;
+
+.bonito{
+    color: #a5bb50;
 }
+
+
 .ccp{
   color: rgb(139, 173, 79);
+  text-align: center;
 }
 
-h3 {
-    text-align: left;
-    font-size:x-large
-}
 
 p  { 
     text-align: left;
 }
 
-
-.arte {
-    width: 50%
-
-}
     .imagemcentralizada {
         text-align: center;
     }
@@ -37,3 +38,58 @@ p  {
 .lista {
     color: dimgray;
 }
+
+nav a {
+    text-transform: uppercase;
+    color: #a5bb50;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+
+  }
+  .produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+.produtos h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.produto-descricao {
+    font-size: 18px;
+}
+
+.produto-preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.pro-duto  {
+    width: 50%;
+}
+
+.produ-to  {
+    width: 60%;
+}
+.crase {
+    width: 50%;
+}
+.pontos {
+    width: 30%;
+}
+
+  
