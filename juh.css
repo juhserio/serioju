@@ -9,6 +9,16 @@ P{
 }
 a{
     font-size: larger;
+}
+
+.a-a{
+    font-size: medium;
+    position: relative;
+    top: 0%;
+    left: 48%;
+}
+
+.ppg {
     text-align: center;
 }
 
@@ -17,13 +27,15 @@ a{
 }
 
 .bonito{
-    color: #a5bb50;
+    color: #000;
 }
 
 
 .ccp{
-  color: rgb(139, 173, 79);
+  color: #000;
   text-align: center;
+  font-family:'Courier New', Courier, monospace;
+  font-size: x-large
 }
 
 
@@ -63,13 +75,18 @@ nav a {
     box-sizing: border-box;
 }
 
-.produtos h2 {
+.produtos h3 {
     font-size: 30px;
     font-weight: bold;
+    border-width: 2px;
+  border-style: solid;
 }
 
 .produto-descricao {
     font-size: 18px;
+    border-color: #000000;
+  border-width: 2px;
+  border-style: solid;
 }
 
 .produto-preco {
@@ -85,6 +102,11 @@ nav a {
 .produ-to  {
     width: 60%;
 }
+
+.p-duto{
+   width: 60%;
+}
+
 .crase {
     width: 50%;
 }
