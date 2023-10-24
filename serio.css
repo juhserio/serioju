@@ -1,6 +1,12 @@
 header{
   text-align: center;
 }
+.phd{
+  font-size: larger;
+    position: relative;
+    top: 0%;
+    right: 2%;
+}
 
 nav{
   text-align: center;
